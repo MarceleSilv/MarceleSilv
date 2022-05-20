@@ -21,7 +21,9 @@
    <details open><summary>Classic charts</summary><img src="https://github.com/lowlighter/MarceleSilv/blob/examples/metrics.plugin.stargazers.svg" alt=""></img></details>
   <details><summary>Chartist charts</summary><img src="https://github.com/lowlighter/MarceleSilv/blob/examples/metrics.plugin.stargazers.chartist.svg" alt=""></img></details>
 
-  ![](https://github.com/MarceleSilv/snk/raw/output/github-contribution-grid-snake.svg)
+<!-- Agente S snake! -->
+  ![snake gif](https://github.com/MarceleSilv/MarceleSilv/blob/output/github-contribution-grid-snake.svg)
+  
   <div style="display: inline-block; float: left;">
   <a align="center" href="https://instagram.com/emy_npm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a align="center" href = "mailto:contatomarcelesilvaf186@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

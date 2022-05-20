@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/MarceleSilv">
      
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
     <img height="190em"  src="https://github-readme-stats.vercel.app/api?username=MarceleSilv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="200%" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceleSilv&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -26,6 +26,7 @@
 </div>
   
   ##
+  
   <div>
    <details open><summary>Classic charts</summary><img src="https://github.com/lowlighter/MarceleSilv/blob/examples/metrics.plugin.stargazers.svg" alt=""></img></details>
   <details><summary>Chartist charts</summary><img src="https://github.com/lowlighter/MarceleSilv/blob/examples/metrics.plugin.stargazers.chartist.svg" alt=""></img></details>

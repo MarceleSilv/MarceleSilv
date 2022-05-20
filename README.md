@@ -27,15 +27,11 @@
     
   
   ##
-  
+  <div>
    <details open><summary>Classic charts</summary><img src="https://github.com/lowlighter/MarceleSilv/blob/examples/metrics.plugin.stargazers.svg" alt=""></img></details>
   <details><summary>Chartist charts</summary><img src="https://github.com/lowlighter/MarceleSilv/blob/examples/metrics.plugin.stargazers.chartist.svg" alt=""></img></details>
 
-
- <div> 
-  
-
-  ![Snake animation](https://github.com/MarceleSilv/MarceleSilv/blob/output/github-contribution-grid-snake.svg)
+  ![](https://github.com/MarceleSilv/snk/raw/output/github-contribution-grid-snake.svg)
 </div>
 
   

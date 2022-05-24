@@ -28,10 +28,10 @@
 <div align="center">
   <a href="https://github.com/MarceleSilv">
     <div style="display: inline-block; float: left;">
-  <br>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceleSilv&layout=compact&langs_count=7&theme=omni"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=MarceleSilv&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>   
-</div>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceleSilv&layout=compact&langs_count=7&theme=omni"/>
+     <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=MarceleSilv&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>   
+    </div> 
+  </a> 
 </div>
   
   ##

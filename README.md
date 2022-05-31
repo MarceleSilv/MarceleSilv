@@ -30,18 +30,17 @@
   
 <div align="center">
   <a href="https://github.com/MarceleSilv">
-    <div style="display: inline-block">
+   <!--<div style="display: inline-block">-->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceleSilv&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceleSilv&layout=compact&langs_count=7&theme=omni"/>
-    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=MarceleSilv&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/> 
     </div> 
-  </a> 
   
-  <a href="https://github.com/MarceleSilv/github-readme-stats">
+  <!--<a href="https://github.com/MarceleSilv/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarceleSilv&repo=github-readme-stats&theme=omni" />
   </a>
   <a href="https://github.com/MarceleSilv/anuraghazra.github.io">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarceleSilv&repo=MarceleSilv.github.io&theme=omni" />
-  </a>
+  </a>-->
 </div>
    
   ##

@@ -25,23 +25,6 @@
     <img alt="Emy-Materialize" height="30" width="40" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"/> <img alt="Emy-github" height="30" width="40" src="https://camo.githubusercontent.com/27580a32faa17e70eb452c4d5da3c99194238de3451ffebb88ac92b53f50b98a/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d64656661756c742e676966">
    </div>
  </div>
-
-  ##
-  
-<div align="center">
-  <a href="https://github.com/MarceleSilv">
-   <!--<div style="display: inline-block">-->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceleSilv&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/> 
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceleSilv&layout=compact&langs_count=7&theme=omni"/>
-    </div> 
-  
-  <!--<a href="https://github.com/MarceleSilv/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarceleSilv&repo=github-readme-stats&theme=omni" />
-  </a>
-  <a href="https://github.com/MarceleSilv/anuraghazra.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarceleSilv&repo=MarceleSilv.github.io&theme=omni" />
-  </a>-->
-</div>
    
   ##
   
@@ -51,6 +34,31 @@
 
 <!-- Agente S snake! -->
   ![snake gif](https://github.com/MarceleSilv/MarceleSilv/blob/output/github-contribution-grid-snake.svg)
+  
+   ##
+  
+  <th colspan="3">
+    <h3>
+      My Stats 📈
+    </h3>
+  </th>
+  
+<!--<div align="center">-->
+  <a href="https://github.com/MarceleSilv">
+   <!--<div style="display: inline-block">-->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceleSilv&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/> 
+    <!--<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceleSilv&layout=compact&langs_count=7&theme=omni"/>-->
+    </div> 
+  
+  <!--<a href="https://github.com/MarceleSilv/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarceleSilv&repo=github-readme-stats&theme=omni" />
+  </a>
+  <a href="https://github.com/MarceleSilv/anuraghazra.github.io">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarceleSilv&repo=MarceleSilv.github.io&theme=omni" />
+  </a>-->
+</div>
+  
+   ##
   
   <div style="display: inline-block; float: left;">
   <a align="center" href="https://instagram.com/emy_npm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

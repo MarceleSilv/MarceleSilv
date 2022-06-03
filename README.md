@@ -29,8 +29,8 @@
   ##
   
 <div>
-<!--    <details open><summary>Classic charts</summary><img src="https://github.com/lowlighter/MarceleSilv/blob/examples/metrics.plugin.stargazers.svg" alt=""></img></details>
-  <details><summary>Chartist charts</summary><img src="https://github.com/lowlighter/MarceleSilv/blob/examples/metrics.plugin.stargazers.chartist.svg" alt=""></img></details> -->
+<details open><summary>Classic charts</summary><img src="https://github.com/lowlighter/MarceleSilv/blob/examples/metrics.plugin.stargazers.svg" alt=""></img></details>
+  <details><summary>Chartist charts</summary><img src="https://github.com/lowlighter/MarceleSilv/blob/examples/metrics.plugin.stargazers.chartist.svg" alt=""></img></details> 
 
 <!-- Agente S snake! -->
   ![snake gif](https://github.com/MarceleSilv/MarceleSilv/blob/output/github-contribution-grid-snake.svg)
@@ -47,13 +47,13 @@
   <a href="https://github.com/MarceleSilv">
    <!--<div style="display: inline-block">-->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceleSilv&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/> 
-    <!--<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceleSilv&layout=compact&langs_count=7&theme=omni"/>-->
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceleSilv&layout=compact&langs_count=7&theme=omni"/>
     </div> 
   
-  <!--<a href="https://github.com/MarceleSilv/github-readme-stats">
+  <a href="https://github.com/MarceleSilv/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarceleSilv&repo=github-readme-stats&theme=omni" />
   </a>
-  <a href="https://github.com/MarceleSilv/anuraghazra.github.io">
+  <!--<a href="https://github.com/MarceleSilv/anuraghazra.github.io">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarceleSilv&repo=MarceleSilv.github.io&theme=omni" />
   </a>-->
 </div>

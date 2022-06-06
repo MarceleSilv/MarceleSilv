@@ -47,7 +47,7 @@
   <a href="https://github.com/MarceleSilv">
    <!--<div style="display: inline-block">-->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceleSilv&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/> 
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceleSilv&layout=compact&langs_count=7&theme=omni"/>
+    <!--<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceleSilv&layout=compact&langs_count=7&theme=omni"/>-->
     </div> 
   
  <!-- <a href="https://github.com/MarceleSilv/github-readme-stats">

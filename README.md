@@ -1,5 +1,4 @@
-    Print('Be very welcome to my home')                
-  ## Hi! I'm Emily ^^  
+ ## Hi! I'm Emily ^^  
 
   <head>
     <img align="left" class="circulo" top="50" height="150" src="https://user-images.githubusercontent.com/72084756/169573437-cdbfea39-f51f-4277-8fd6-fa8e106261e4.png">
@@ -9,10 +8,12 @@
    <tr>
      <th colspan="2"><h3> ✨ Seres luminosos somos nós. Não esta matéria bruta. ✨</h3></th>
    </tr>
-    
+       
+    Print('Be very welcome to my home')
+      
     < º Your focus determines your reality,
       may the force be with you. º />
-    
+         
   <div name="IconsByEmy" align="left">  
     <img alt="Emy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img alt="Emy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

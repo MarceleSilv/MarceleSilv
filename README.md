@@ -47,9 +47,9 @@
 <div align="center">
   <a href="https://github.com/MarceleSilv/MarceleSilv">
    <div style="display: inline-block">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceleSilv&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&count_private=true"/> 
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarceleSilv&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&count_private=true"/> 
   <!--<img aling="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceleSilv&layout=compact&langs_count=7&theme=omni&hide_border=true"/>-->
-    <img aling="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=MarceleSilv&repo=github-readme-stats&theme=omni&hide_border=true"/>
+    <img aling="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MarceleSilv&repo=github-readme-stats&theme=omni&hide_border=true"/>
     <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceleSilv&layout=compact&theme=omni&hide_border=true" width="313" />-->
     </div> 
  </a>

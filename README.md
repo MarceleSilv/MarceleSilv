@@ -28,7 +28,7 @@
  </div>
    
   ##
-  
+  <!--Bixinho Acenando-->
 <div><img alt="poteto" height="60" src="https://c.tenor.com/5iiD6jOOCuAAAAAC/quby-high-five.gif"></img>
 <!--<details open><summary>Classic charts</summary><img src="https://github.com/lowlighter/MarceleSilv/blob/examples/metrics.plugin.stargazers.svg" alt=""></img></details>-->
   <details><summary>Chartist charts</summary><img src="https://github.com/lowlighter/MarceleSilv/blob/examples/metrics.plugin.stargazers.chartist.svg" alt=""></img></details> 

@@ -1,13 +1,14 @@
  ## Hi! I'm Emily ^^  
-
-  <head>
+ <html>
+   <head>
     <img align="left" class="circulo" top="50" height="150" src="https://user-images.githubusercontent.com/72084756/169573437-cdbfea39-f51f-4277-8fd6-fa8e106261e4.png">
   <head/>  
   
-  <div style="display: inline-block; float: left;">  
-   <tr>
-     <th colspan="2"><h3> ✨ Seres luminosos somos nós. Não esta matéria bruta. ✨</h3></th>
-   </tr>
+  <body>
+     <div style="display: inline-block; float: left;">  
+       <tr>
+         <th colspan="2"><h3> ✨ Seres luminosos somos nós. Não esta matéria bruta. ✨</h3></th>
+      </tr>
        
     Print('Be very welcome to my home')
       
@@ -63,6 +64,6 @@
   <a align="center" href="https://instagram.com/emy_npm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a align="center" href = "mailto:contatomarcelesilvaf186@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     </div>
-</div>
-
-  
+   </div>
+ </body>
+ </html>

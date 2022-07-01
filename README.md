@@ -10,7 +10,7 @@
          <th colspan="2"><h3> ✨ Seres luminosos somos nós. Não esta matéria bruta. ✨</h3></th>
       </tr>
        
-    Print('Be very welcome to my home')
+    Print('Ramifique cedo, ramifique sempre.')
       
     < º Your focus determines your reality,
       may the force be with you. º />

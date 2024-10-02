@@ -37,6 +37,7 @@
 <!-- Agente S snake! -->
   ![snake gif](https://github.com/MarceleSilv/MarceleSilv/blob/output/github-contribution-grid-snake.svg)
   [![@emy's Holopin board](https://holopin.io/api/user/board?user=emy)](https://holopin.io/@emy)
+  [![An image of @emy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/emy)](https://holopin.io/@emy)
 
    ##
   

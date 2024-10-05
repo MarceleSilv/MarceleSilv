@@ -6,6 +6,13 @@
          <th colspan="2"><h3> ✨ Seres luminosos somos nós. Não esta matéria bruta. ✨</h3></th>
       </tr>
        
+      ##
+  <!--Bixinho Acenando-->
+<div><img alt="poteto" height="60" src="https://c.tenor.com/5iiD6jOOCuAAAAAC/quby-high-five.gif"></img>
+<!--<details open><summary>Classic charts</summary><img src="https://github.com/lowlighter/MarceleSilv/blob/examples/metrics.plugin.stargazers.svg" alt=""></img></details>-->
+  <details><summary>Chartist charts</summary><img src="https://github.com/lowlighter/MarceleSilv/blob/examples/metrics.plugin.stargazers.chartist.svg" alt=""></img></details> 
+
+
     Print('Ramifique cedo, ramifique sempre.')
       
     < º Your focus determines your reality,
@@ -24,12 +31,7 @@
    </div>
  </div>
    
-  ##
-  <!--Bixinho Acenando-->
-<div><img alt="poteto" height="60" src="https://c.tenor.com/5iiD6jOOCuAAAAAC/quby-high-five.gif"></img>
-<!--<details open><summary>Classic charts</summary><img src="https://github.com/lowlighter/MarceleSilv/blob/examples/metrics.plugin.stargazers.svg" alt=""></img></details>-->
-  <details><summary>Chartist charts</summary><img src="https://github.com/lowlighter/MarceleSilv/blob/examples/metrics.plugin.stargazers.chartist.svg" alt=""></img></details> 
-
+  
 <!-- Agente S snake! -->
   <!--![snake gif](https://github.com/MarceleSilv/MarceleSilv/blob/output/github-contribution-grid-snake.svg)-->
   <!--[![@emy's Holopin board](https://holopin.io/api/user/board?user=emy)](https://holopin.io/@emy)-->

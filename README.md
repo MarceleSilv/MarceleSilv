@@ -1,9 +1,5 @@
  ## hello word! ^^  
  <html>
-   <head>
-    <img align="left" class="circulo" top="50" height="150" src="https://user-images.githubusercontent.com/c5a979f9-dc15-4c11-99ef-7e4801030d3b.png">
-  <head/>  
-  
   <body>
      <div style="display: inline-block; float: left;">  
        <tr>

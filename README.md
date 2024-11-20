@@ -26,15 +26,15 @@
     <img alt="Emy-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>  
     <img alt="Emy-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
     <img alt="Emy-Bootstrap" height="30" width="40" src="https://user-images.githubusercontent.com/72084756/169810185-74996526-232e-48d4-880f-c231ac5abfcb.png"/> 
-    <img alt="Emy-Materialize" height="30" width="40" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"/> <img alt="Emy-github" height="30" width="40" src="https://camo.githubusercontent.com/27580a32faa17e70eb452c4d5da3c99194238de3451ffebb88ac92b53f50b98a/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d64656661756c742e676966">
+    <img alt="Emy-Materialize" height="30" width="40" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"/> 
+    <img height="30" width="40" src="https://github.githubassets.com/assets/mona-loading-dimmed-static-099e873d1b5c.svg">
    </div>
  </div>
    
-  
 <!-- Agente S snake! -->
   <!--![snake gif](https://github.com/MarceleSilv/MarceleSilv/blob/output/github-contribution-grid-snake.svg)-->
   <!--[![@emy's Holopin board](https://holopin.io/api/user/board?user=emy)](https://holopin.io/@emy)-->
-  [![An image of @emy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/emy)](https://holopin.io/@emy)
+  [![@emy's Holopin board](https://holopin.io/api/user/board?user=emy)](https://holopin.io/@emy)
 
    ##
   
